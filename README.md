@@ -59,6 +59,18 @@ For iOS certificates:
 > - Never commit Firebase configuration files to version control
 > - Never commit iOS certificates or private keys to version control
 
+## Download Pre-built Versions
+
+You can download the latest pre-built versions of NOTE.SV from our official GitHub releases page:
+
+[https://github.com/Note-sv/NOTE.SV/releases](https://github.com/Note-sv/NOTE.SV/releases)
+
+Available platforms:
+- Windows (64-bit)
+- macOS (Intel and Apple Silicon)
+- Linux
+- Android APK
+
 ## About
 
 Developed by ChainBow Co. Ltd.  
