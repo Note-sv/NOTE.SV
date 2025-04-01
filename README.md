@@ -38,6 +38,20 @@ npm install
 gulp buildAndroid
 ```
 
+### Configuration
+
+For Android development, you'll need to:
+1. Create a Firebase project
+2. Download your own `google-services.json`
+3. Place it in `src-capacitor/android/app/google-services.json`
+
+For iOS development, you'll need to:
+1. Create a Firebase project
+2. Download your own `GoogleService-Info.plist`
+3. Place it in `src-capacitor/ios/App/App/GoogleService-Info.plist`
+
+> **Note**: Never commit `google-services.json` or `GoogleService-Info.plist` to version control
+
 ## About
 
 Developed by ChainBow Co. Ltd.  
