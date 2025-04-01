@@ -1,0 +1,24 @@
+/* InfoPlist.strings
+  Point
+
+  Created by Long Li on 2019/03/01.
+  Copyright © 2019 ChainBow.io. All rights reserved. */
+
+"CFBundleDisplayName" = "NOTE.SV";
+
+"NSLocationAlwaysUsageDescription" = "位置情報へのアクセスを許可する必要があります。";
+
+"NSLocationAlwaysAndWhenInUsageDescription" = "位置情報へのアクセスを許可する必要があります。";
+
+"NSLocationUsageDescription" = "位置情報へのアクセスを許可する必要があります。";
+
+"NSLocationWhenInUseUsageDescription" = "位置情報へのアクセスを許可する必要があります。";
+
+"NSCameraUsageDescription" = "QRコードをスキャン、または写真を撮るため、カメラを有効にする必要があります。";
+
+"NSPhotoLibraryUsageDescription" = "画像を変更、保存または添付するため、アルバムへのアクセスを許可する必要があります。";
+"NSPhotoLibraryAddUsageDescription" = "画像を変更、保存または添付するため、アルバムへのアクセスを許可する必要があります。";
+
+"NSMicrophoneUsageDescription" = "音声でアプリを操作することができます。マイクを有効にする必要があります。";
+
+"NSFaceIDUsageDescription" = "Face ID を使ってロックを解除するため許可してください。";

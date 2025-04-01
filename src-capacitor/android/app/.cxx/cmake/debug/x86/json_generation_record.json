@@ -1,0 +1,146 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/suhao/GitHub/note.sv/src-capacitor/android/app/.cxx/cmake/debug/x86/android_gradle_build.json due to:",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/suhao/GitHub/note.sv/src-capacitor/android/app/.cxx/cmake/debug/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/suhao/GitHub/note.sv/src-capacitor/android/app/.cxx/cmake/debug/x86/build_command.txt, will remove stale json folder",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/suhao/GitHub/note.sv/src-capacitor/android/app/.cxx/cmake/debug/x86\u0027",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/suhao/GitHub/note.sv/src-capacitor/android/app/.cxx/cmake/debug/x86\u0027",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/suhao/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003d/Users/suhao/Library/Android/sdk/ndk/21.0.6113669\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003d/Users/suhao/Library/Android/sdk/ndk/21.0.6113669\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/suhao/GitHub/note.sv/src-capacitor/android/app/build/intermediates/cmake/debug/obj/x86\n-DCMAKE_MAKE_PROGRAM\u003d/Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_STL\u003dc++_shared\n-B/Users/suhao/GitHub/note.sv/src-capacitor/android/app/.cxx/cmake/debug/x86\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "Not a directory: /Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile\",\n  \"buildDirectory\": \"/Users/suhao/GitHub/note.sv/src-capacitor/android/app/.cxx/cmake/debug/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"errorMessage\":\"Failed to activate protocol version: \\\"sourceDirectory\\\" is not a directory.\",\"inReplyTo\":\"handshake\",\"type\":\"error\"}\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "Failed to activate protocol version: \"sourceDirectory\" is not a directory.",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/suhao/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/Users/suhao/Library/Android/sdk/ndk/21.0.6113669\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/suhao/Library/Android/sdk/ndk/21.0.6113669\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/suhao/GitHub/note.sv/src-capacitor/android/app/build/intermediates/cmake/debug/obj/x86\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\",\n    \"-DANDROID_STL\\u003dc++_shared\"\n  ]\n}\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"errorMessage\":\"Waiting for type \\\"handshake\\\".\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "Waiting for type \"handshake\".",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (/Users/suhao/Library/Android/sdk/cmake/3.10.2.4988404/bin).\r\n",
+    "file": "/Users/suhao/GitHub/note.sv/src-capacitor/android/app/libs/cdvnodejsmobile/CMakeLists.txt",
+    "tag": "debug|x86"
+  }
+]

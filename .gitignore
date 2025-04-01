@@ -61,3 +61,10 @@ typings/
 .next
 dist
 .reify-cache
+src-capacitor/www
+notesv.jks
+notesv.keystore
+src-capacitor/android/upload_cert.der
+src-capacitor/android/upload_certificate.pem
+deployment_cert.der
+src-capacitor/.gradle

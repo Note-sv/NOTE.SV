@@ -1,0 +1,7 @@
+{
+  "name": "NoteSV",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

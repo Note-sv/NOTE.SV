@@ -1,0 +1,98 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'realm-android'
+
+android {
+    compileSdkVersion 31
+    defaultConfig {
+        applicationId "io.chainbow.notesv"
+        minSdkVersion 23
+        targetSdkVersion 31
+        versionCode 27
+        versionName "1.10.0"
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+
+        ndk {
+          // shrink when build
+          abiFilters "armeabi", "armeabi-v7a", "arm64-v8a"
+    //      abiFilters "armeabi-v7a", "x86", "arm64-v8a", "x86_64"
+        }
+    }
+
+    signingConfigs {
+        release {
+            storeFile file('../notesv.keystore')
+            storePassword 'chainbow.io'
+            keyAlias = 'key1'
+            keyPassword 'note.sv'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
+
+    packagingOptions {
+        pickFirst 'lib/arm64-v8a/libnode.so'
+    }
+}
+
+
+repositories {
+    maven {
+        url "https://dl.bintray.com/ionic-team/capacitor"
+    }
+    flatDir {
+        dirs '../capacitor-cordova-android-plugins/src/main/libs', 'libs'
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation project(':capacitor-android')
+    testImplementation 'junit:junit:4.12'
+    implementation project(':capacitor-cordova-android-plugins')
+    implementation 'com.gyf.immersionbar:immersionbar:2.3.3'
+    implementation "androidx.biometric:biometric:1.0.1"
+    implementation "com.google.firebase:firebase-messaging:20.2.3"
+    implementation "com.google.firebase:firebase-analytics:17.4.4"
+    debugImplementation 'com.facebook.stetho:stetho:1.0.0'
+    implementation project(':capacitor-biometric-auth')
+}
+
+apply from: 'capacitor.build.gradle'
+
+try {
+    def servicesJSON = file('google-services.json')
+    if (servicesJSON.text) {
+        apply plugin: 'com.google.gms.google-services'
+    }
+} catch (Exception e) {
+    logger.warn("google-services.json not found, google-services plugin not applied. Push Notifications won't work")
+}
+
+//def firebaseCrashlyticsGradlePath = "../../node_modules/cordova-plugin-firebase-crashlytics/firebase-crashlytics.gradle"
+//def firebaseCrashlyticsJSON = file(firebaseCrashlyticsGradlePath)
+//def content = firebaseCrashlyticsJSON.text
+//if (content.readLines().size() > 20) {
+//    content = content.readLines()
+//    content = content.subList(content.size() - 6, content.size()).join('\n')
+//    firebaseCrashlyticsJSON.write content
+//}

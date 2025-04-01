@@ -1,0 +1,10 @@
+<manifest
+    package="io.chainbow.notesv"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        tools:replace="android:name"
+        android:name=".MyDebugApplication"/>
+
+</manifest>

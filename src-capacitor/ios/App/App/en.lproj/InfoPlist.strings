@@ -1,0 +1,23 @@
+/* InfoPlist.strings
+  Point
+
+  Created by Long Li on 2019/03/01.
+  Copyright © 2019 ChainBow.io. All rights reserved. */
+
+"CFBundleDisplayName" = "NOTE.SV";
+
+"NSLocationAlwaysUsageDescription" = "please allow access your localtion";
+
+"NSLocationAlwaysAndWhenInUsageDescription" = "please allow access your localtion";
+
+"NSLocationUsageDescription" = "please allow access your localtion";
+
+"NSLocationWhenInUseUsageDescription" = "please allow access your localtion";
+
+"NSCameraUsageDescription" = "To scan QR code and take a photo";
+
+"NSPhotoLibraryUsageDescription" = "To select a image, or save image";
+"NSPhotoLibraryAddUsageDescription" = "To select a image, or save image";
+
+"NSFaceIDUsageDescription" = "This app requires Face ID permission to authenticate using Face recognition.";
+"NSBluetoothAlwaysUsageDescription" = "To communicate with Bluetooth POS system";

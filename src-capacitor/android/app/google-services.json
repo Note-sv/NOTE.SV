@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104384219408",
+    "firebase_url": "https://notesv-e6644.firebaseio.com",
+    "project_id": "notesv-e6644",
+    "storage_bucket": "notesv-e6644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104384219408:android:fbe478a5f771607239fd95",
+        "android_client_info": {
+          "package_name": "io.chainbow.notesv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104384219408-b86jfn80tit8unkiban83q8kbohb9oqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1g-BY5oVLvRSSC3nTveYAKi8S-zqy9EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104384219408-b86jfn80tit8unkiban83q8kbohb9oqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

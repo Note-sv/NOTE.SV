@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>104384219408-gh7nadvkk8b84c3ghtbb9rm0lh5t0tok.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104384219408-gh7nadvkk8b84c3ghtbb9rm0lh5t0tok</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrRwJz66ywf87VdpqAYL_W0u0EksiHDPk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104384219408</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.chainbow.notesv</string>
+	<key>PROJECT_ID</key>
+	<string>notesv-e6644</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notesv-e6644.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104384219408:ios:d7cc412d8af3930439fd95</string>
+	<key>DATABASE_URL</key>
+	<string>https://notesv-e6644.firebaseio.com</string>
+</dict>
+</plist>

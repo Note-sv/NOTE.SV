@@ -1,0 +1,23 @@
+/* InfoPlist.strings
+  Point
+
+  Created by Long Li on 2019/03/01.
+  Copyright © 2019 ChainBow.io. All rights reserved. */
+
+"CFBundleDisplayName" = "NOTE.SV";
+
+"NSLocationAlwaysUsageDescription" = "请允许访问位置信息。";
+
+"NSLocationAlwaysAndWhenInUsageDescription" = "请允许访问位置信息。";
+
+"NSLocationUsageDescription" = "请允许访问位置信息。";
+
+"NSLocationWhenInUseUsageDescription" = "请允许访问位置信息。";
+
+"NSCameraUsageDescription" = "为了扫描二维码或者拍摄照片，请允许相机功能。";
+
+"NSPhotoLibraryUsageDescription" = "为了选择，添加或者保存一张照片，请允许访问相册。";
+"NSPhotoLibraryAddUsageDescription" = "为了选择，添加或者保存一张照片，请允许访问相册。";
+
+"NSMicrophoneUsageDescription" = "为了使用声音控制APP，请允许麦克风功能。";
+"NSFaceIDUsageDescription" = "请允许使用面部识别登陆";

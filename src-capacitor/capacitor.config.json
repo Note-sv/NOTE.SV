@@ -1,0 +1,30 @@
+{
+  "appId": "io.chainbow.notesv",
+  "appName": "NoteSV",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "backButtonExit": true,
+  "ios": {
+    "iosStatusBarPadding": true,
+    "hideLogs": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 10000,
+      "launchAutoHide": true,
+      "backgroundColor": "#00000000",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "FIT_XY",
+      "splashFullScreen": true,
+      "splashImmersive": true
+    },
+    "PushNotifications": {
+      "presentationOptions": [
+        "badge",
+        "sound",
+        "alert"
+      ]
+    }
+  }
+}

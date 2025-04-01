@@ -1,0 +1,23 @@
+{
+  "name": "NOTE.SV",
+  "version": "1.10.0",
+  "description": "NoteSV powered by Bitcoin SV",
+  "author": "lilong <lilong@chainbow.io>",
+  "private": true,
+  "scripts": {
+    "ionic:build": "quasar build"
+  },
+  "dependencies": {
+    "@capacitor/android": "^2.4.6",
+    "@capacitor/cli": "^2.4.6",
+    "@capacitor/core": "^2.4.6",
+    "@capacitor/ios": "^2.4.6",
+    "@ionic-native/core": "^5.31.1",
+    "@ionic-native/firebase-crashlytics": "^5.31.1",
+    "@ionic-native/qr-scanner": "^5.31.1",
+    "capacitor-biometric-auth": "github:baryon/capacitor-biometric-auth",
+    "cordova-plugin-firebase-crashlytics": "^1.2.0",
+    "cordova-plugin-qrscanner": "github:baryon/cordova-plugin-qrscanner",
+    "note-node": "file:note-node"
+  }
+}

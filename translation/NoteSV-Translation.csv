@@ -1,0 +1,298 @@
+Key,English,Chinese,Japanese
+appTitle,"Note.SV","Note.SV","Note.SV"
+subtitle,"Encrypted and decentralized password manager and note storage","要永远好好守护 一组暗号","暗号資産を守り抜きます"
+password,"Passwords","密码","パスワード"
+settings,"Settings","设置","設定"
+help,"Help","帮助","ヘルプ"
+note,"Notes","笔记","ノート"
+shared,"Shared","分享","共有"
+label,"Labels","标签","ラベル"
+balanceSatoshi,"Balance: {walletBalance} Satoshi","余额：{walletBalance} Satoshi","残高：{walletBalance} Satoshi"
+charge,"Add Fund","充值","チャージ"
+lockScreen,"Lock Screen","锁屏","画面をロックする"
+inputPassword,"Input password to unlock","请输入密码解锁","パスワードを入力してください"
+BiometricAuth,"Biometric Auth","生物特征识别","生体認証"
+FaceIDAuth,"Use Face ID to auth and unlock","面部识别解锁","Face IDで認証しロック解除"
+TouchIDAuth,"Use Touch ID to auth and unlock","指纹等特征识别解锁","指紋IDなどで認証しロック解除"
+unlock,"Unlock","解锁","ロック解除"
+forgotPassword,"Forgot Password","忘记了密码","パスワード忘れ"
+day,"Day","日","日"
+hours,"Hours","小时","時間"
+minute,"after {minute} minute","无动作{minute}分钟后","無操作{minute}分後"
+minutes,"after {minute} minutes","无动作{minute}分钟后","無操作{minute}分後"
+seconds,"Seconds","秒","秒"
+Characters,"{length} Characters","{length} 个字符","{length} 文字"
+UppercaseLetters,"Uppercase Letters (A-Z)","大写字母 (A-Z)","大文字 (A-Z)"
+LowercaseLetters,"Lowercase Letters (a-z)","小写字母 (a-z)","小文字 (a-z)"
+IncludeNumbers,"Include Numbers (0-9)","包括数字 (0-9)","数字 (0-9)"
+IncludeSymbols,"Include Symbols","包括符号","記号"
+Intro,"Introduce","介绍","初め"
+CreateMasterWords,"Create Master Words","创建新的超级密语","マスター単語を作成する"
+ImportMasterWords,"Import Master Words","导入已有超级密语","マスター単語をインポートする"
+ScanAndImportMasterWords,"Scan QR Code of Master Code and Import","扫描超级密语二维码导入","マスター単語のQRコードをスキャンしてインポートする"
+LockScreenPassword,"Input Lock Screen Password","输入锁屏密码","画面ロック用パスワード"
+LockScreenPasswordAgain,"Input Lock Screen Password again","再次输入锁屏密码","画面ロック用パスワード（再度入力）"
+error,"Error. Please try again soon.","发生了错误，请稍后再试","エラーが発生しました。後ほどもう一度試してください"
+AtLeastOneRule,"At least one rule for pools must be true","最少需要一个密码生成规则","少なくでも一つのパスワード生成ルールが必要です。"
+GeneratePassword,"Generate Password","生成密码","パスワードを生成する"
+AppVersion,"App Version","App 版本","アプリバージョン"
+AutoLockScreen,"Auto Lock Screen","自动锁屏","画面自動ロック"
+ScrollBackUp,"Scroll back up...","返回顶部","トップに戻る"
+status,"[object Object]","[object Object]","[object Object]"
+HistoryRecord,"History Record","历史记录","履歴記録"
+Return,"Back","返回","戻る"
+Search,"Look up","搜索","検索"
+SearchAll,"All","所有的項目","全ての項目"
+Share,"Share","分享","共有"
+SortBy,"Sort by","排序方式","ソート"
+title,"Title","标题","タイトル"
+time,"Time","时间","更新時刻"
+AddNote,"Add a note","添加笔记","ノート作成"
+AddPassword,"Add a password","添加密码信息","パスワード作成"
+AutoSaveDraft,"Auto Save Draft","自动保存草稿","ドラフト自動保存"
+SaveDraft,"Save Draft","保存草稿","ドラフト保存"
+SaveSubmit,"Sync Save","同步保存","同期保存"
+Save,"Save","保存","保存"
+RequireVal,"Require input","必须有内容","内容入力必要"
+Content,"Content","笔记正文","ノート内容"
+CheckRule,"Please check your input","请检查输入的内容是否符合规则","入力内容をチェックしてください"
+Submited,"Submited","已经提交","保存提出"
+EditNote,"Edit","编辑信息","ノート編集"
+EditPassword,"Edit","编辑信息","編集"
+Delete,"Delete","删除","削除"
+memo,"Memo","备注","メモ"
+Confirm,"Confirm","确认","確認"
+ConfirmDelete,"Delete note","删除笔记","ノートを削除"
+ConfirmDraftDelete,"Delete draft","删除草稿","ドラフトを削除"
+fid,"User ID or Email address","用户名或者邮件地址","ユーザIDまたはメールアドレス"
+pwd,"Password","密码","パスワード"
+url,"Login URL Address","登录网址","ログインリンクアドレス"
+otp,"One time password","二次验证","一時パスワード"
+Copied,"Copied","已拷贝","コピー完了"
+CopyFailed,"Copy Failed","拷贝失败","コピー失敗"
+Edit,"Edit","编辑","編集"
+Close,"Close","关闭","閉じる"
+CloseHintForSaveDraft,"Save it as draft？","是否保留草稿？","ドラフトに保留しますか？"
+Yes,"Yes","是","はい"
+No,"No","否","いいえ"
+UpdatedOn,"Updated on","更新时间","更新時刻"
+Settings,"Settings","设置","設定"
+Language,"Language","语言","言語"
+Account,"Account","账号","アカウント"
+BackupMasterWords,"Backup Master Words","备份超级密语","マスター単語のバックアップ"
+ChangeLockPWD,"Change Lockscreen Password","修改锁屏密码","パスワード変更"
+RemoveAccount,"Remove Account","删除账号","アカウント削除"
+Remove,"Remove","删除","削除"
+MasterWords,"Master Words","超级密语","マスター単語"
+Restart,"Restart","重新开始","初めから"
+Verify,"Verify","校验","検証"
+VerifyMasterWords,"Verify Master Words","校验超级密语","マスター単語の検証"
+MasterWordsVerified,"Master Words is verified","超级密语输入正确，校验成功。请返回前一画面","マスター単語検証済み"
+MasterWordsFailed,"Master Words is not verified, Please check again","输入的超级密语有误，请仔细检查","マスター単語検証失敗、入力内容をご確認ください"
+ChangePassword,"Change Lockscreen Password","修改锁屏密码","画面ロック用パスワードを変更"
+InputNewPassword,"New Password","新的锁屏密码","新しいパスワード"
+InputPasswordAgain,"New Password (input again)","再次输入新的锁屏密码","新しいパスワード(再度入力)"
+Done,"Done","完成","完了"
+MnemonicLanguage,"The language of Master Words","超级密语的语言","マスター単語の言語"
+PasswordFailed,"Please check your password","密码不一致，请检查输入的密码","パスワード一致ではない"
+PasswordChanged,"Password was changed","锁屏密码修改成功，请返回前一画面","パスワード変更成功"
+ConfirmBackup,"Confirm Backup","是否已经备份","バックアップ確認"
+BackupMasterWordsNow,"Backup Master Words now","立即备份超级密语","すぐバックアップ"
+SkipBackup,"Skip Backup","已经备份好了，忽略这一步","バックアップ済み、次へ"
+Withdraw,"Withdraw Satoshi","提现余额","残高を引き出し"
+RequireCorrectAddress,"Require a correct address","需要输入正确的地址","正しいアドレスを入力してください"
+AddressFormat,"Format","格式例子","フォーマット"
+WithdrawAddress,"Withdraw address","提现地址","引き出しアドレス"
+WithdrawAll,"Withdraw all Satoshi","提取全部余额","全額引き出し"
+ContinueWithdraw,"Continue Withdraw","继续提现","引き出しへ戻る"
+SkipThisStep,"Skip this step","忽略这一步","次へ"
+InputMissMasterWords,"Please check your Master Words","输入的超级密语有误，请仔细检查","マスター単語が間違っています"
+ConfirmRemoveMessage,"Confirm REMOVE. then create a new account or import Master Words","点击OK按钮确认删除。之后您可以重新创建新账号或者导入原有超级密语恢复账号。","OKボタンをクリックして削除します。あとで新しいアカウント作成するか手元のマスター単語をインポートします"
+AddressMissing,"Please check your address","请检查输入的地址是否符合正确","入力したアドレスは正しくない"
+Withdrawing,"Withdrawing to <br/><span class="text-primary">{address}</span>","正在提现到指定地址<br/><span class="text-primary">{address}</span>","ご指定のアドレスへ引き出し中<br/><span class="text-primary">{address}</span>"
+NoResults,"No Result","没有搜索到结果","検索結果なし"
+NoPasswordMessage,"There is no password message","还没有记录密码信息","パスワード記録はありません"
+NoNoteMessage,"There is no note message","还没有书写笔记","ノート作成していません"
+Alipay,"Alipay","支付宝","アリペイ"
+Wechatpay,"Wechat Pay","微信支付","Wechatペイ"
+Unionpay,"Union Pay","银联","銀連"
+MoneyButton,"Money Button","Money Button","Money Button"
+Wallet,"Bitcoin SV Wallet","比特币SV钱包","ビットコインSVウォレット"
+ChargeAddress,"Charge Address","充值地址","チャージアドレス"
+ChargeAmount,"Charge Amount","充值金额","チャージ金額"
+USD,"USD","美元","アメリカドル"
+RMB,"RMB","元人民币","人民元"
+NoBalance,"No balance of Satoshi, Please add fund","Satoshi不足, 请充值","Satoshi残高不足、チャージしてください"
+NoBalanceInsufficiency,"No balance of Satoshi, Please add fund {insufficiency} Satoshi","{insufficiency} Satoshi不足, 请充值","{insufficiency} Satoshi残高不足、チャージしてください"
+IntroMessage,"<p>
+  NoteSV use the highest level of security technology to keep your personal data, such as passwords, bank accounts and other confidential information.
+</p>
+<p>
+All the content is encrypted using an elliptic curve asymmetric encryption algorithm, which is decentralized on Bitcoin nodes around the world. Only you can see the contents, no one can peek. Data will never be lost due to a computer failure.
+</p>
+<p>
+First, you need to create your recovery master words and record it with a <strong> pen and paper </strong>. The master words is the only key for you to recover your account, once lost and cannot be recovered. Please do not take screenshots when recording master words.
+</p>","<p>
+  NoteSV使用最高安全等级的技术帮您保管个人数据，比如密码，银行账号等等机密信息。
+</p>
+<p>
+  与其他密码保管工具不同，本软件保管的数据不会因为开发公司的变故或者服务器的关闭而导致数据丢失。所有的内容都使用椭圆曲线非对称加密算法加密，分散地保管在全球成千上万的比特币节点中。只有您能查看其中的内容，无人可以偷窥。数据永远不会因为电脑故障而丢失。
+</p>
+<p>
+  首先您需要创建一个超级密语，用<strong>纸和笔</strong>记录下来，妥善保管记录。超级密语是您访问信息的唯一钥匙，一旦丢失无法恢复，记录超级密语时请不要截屏，图片的丢失也会导致数据丢失或者被窃取。
+</p>","<p>
+  NoteSVは最高級の暗号技術を利用して、個人の秘密データを保管します。パスワードや銀行情報などの機密情報保管に向け最強のツールです。
+</p>
+<p>
+  他のパスワード管理ソフトウェアと違い、NoteSVで保管したデータは分散的に世界中数千数万台のビットコインノートに保管されます。本ツールの開発者も含む誰でも変更や削除できない無くなれないです。全てのデータは楕円曲線暗号技術で暗号化されます。
+</p>
+<p>
+  最初に、マスター単語を作成し、<strong>紙とペン</strong>で記録して絶対に無くなさないように保管してください。マスター単語があなたの情報を保管するため唯一の鍵です。
+</p>"
+MasterWordsMessage,"<p>
+  Please use paper and pen to record the master words in order and keep them safe. Master words is the only key for you to recover your account, if lost you will be unable to recover. Do not screenshot the master words, as this can lead to data loss or theft.
+</p>","<p>
+          请用用纸和笔按顺序记录上面的超级密语，妥善保管超级密语。超级密语是您访问信息的唯一钥匙，一旦丢失无法恢复，记录超级密语时不要截屏，图片的丢失导致数据丢失或者被窃取。
+        </p>","<p>
+  <strong>紙とペン</strong>で記録して絶対に無くなさないように保管してください。マスター単語があなたの情報を保管するため唯一の鍵です。
+        </p>"
+InputMasterWordsMessage,"<p>
+  Please enter your master words in sequence, and then click the verify button.
+</p>
+","<p>
+        请按照顺序输入记录下来的超级密语，然后点击校验按钮。
+        </p>
+        ","<p>
+        順番にマスター単語を入力して検証してください。
+        </p>
+        "
+BackupMessage,"<p>
+  Have you backed up your master words? If not backed-up you will not be able to recover this account.
+</p>","<p>
+        您是否已经备份了超级密语？如未备份将无法找回这个账号。
+      </p>","<p>
+  マスター単語はバックアップ済みですか。未バックアップの場合、今後アカウントが回復できません。
+</p>"
+InputAddressMessage,"<p>
+  Enter your BSV wallet address, or the exchange address, and double check that it is correct. Click the withdraw button and withdraw all Satoshi.
+</p>","<p>
+  输入您的BSV钱包地址，或者交易所地址，仔细检查是否正确。点击提现按钮，全额提取
+</p>","<p>
+ビットコインSVウォレットのアドレスを入力して全額引き出しできます
+</p>"
+InputAddressHintMessage,"<p>
+  If you have already backed up your account, you do not need to withdraw Satoshi. On re-installation, the master words can be used to restore the account.
+</p>
+","<p>
+  如您已经备份好了账号，不需要提现Satoshi。下次通过超级密语恢复账号后还可以使用。
+</p>
+","<p>
+もし、マスター単語がすでにバックアップ済みの場合、Sataoshiを引き出さなく今度また回復して利用できます。
+</p>
+"
+ChargeMessage,"
+<p>
+The software costs a little Satoshi to use. When you recharge $10 to account that is equivalent to writing more than 3,000 secure documents.
+    </p>
+    <p>Please select the amount and method of charge</p>
+","
+  <p>
+        本软件在使用时会消耗一点Satoshi。比如充值到您个人账号10美元（70元人民币）将可创建和更新大约3000多次加密文档。
+      </p>
+
+      <p>请选择充值金额和充值方法</p>
+","
+<p>
+      本ソフトウェアを利用してデータを記録する時、Satoshiというものを消耗します。ご自分のアカウントへ1000円のチャージでデータを3000回ぐらい書き込めます。
+    </p>
+
+    <p>チェージ方法と金額を選択してください。</p>
+"
+ChargeWalletMessage,"<p>
+  If you already have BSV you can send some to the above address. If you don't have BSV, please charge by other methods.
+</p>
+","<p>
+  请将持有的BSV可以发送一些到上面您专有的地址。如果还没有比特币SV，请通过其他方法充值。
+</p>
+","<p>
+すでにBSVを持っている場合、上記のあなた専有のアドレスへ送金してください。
+</p>
+"
+PasswordError,"Password Error.","密码错误,请重新输入。如果忘了密码, 需要重新导入超级密语恢复信息。","パスワード間違っています。もしパスワード忘れた場合、マスター単語を利用してシステムを回復できます。"
+ForgotPasswordTitle,"Forgot password really?","是否真的忘记了密码？","本当にパスワード忘れました？"
+ForgotPasswordMessage,"Please reset then import the backed-up Master Words to restore account.","请准备好之前的超级密语，点击【重置系统】按钮恢复到初始状态，导入超级密语来恢复。","バックアップしたマスター単語を用意して、「リセット」ボタンをクリックしてシステムを回復できます。"
+Cancel,"Cancel","取消","キャンセル"
+OK,"OK","好","OK"
+ResetSystem,"Reset System","重置系统","リセット"
+ChargeSVCafeMessage,"SV Cafe support Wechat Pay and Alipay for charging. Please choose amount and click icon button.","SV Cafe是支持微信支付和支付宝的第三方充值服务。请选择充值金额，点击图标按钮跳转到sv.cafe网页，扫码支付。充值的Satoshi将实时到账。","SV CafeはWechat PayとAlipayがサポートできるチャージサービスです。チャージ金額（人民元）を確認してアイコンボタンをクリックしてsv.cafeサイトへ遷移します。チャージしたSatoshiはリアルタイムでアカウントに反映します。"
+SVCafe,"SV Cafe","SV Cafe","SV Cafe"
+ChargeMoneyButtonMessage,"Money Button is the simplest payment system to charge Satoshi. If you have a Money Button account, choose amount then press button, please","Money Button是支持多种货币单位的第三方充值服务。如果您持有Money Button账号，请选择充值金额（美金单位）然后点击按钮。充值的Satoshi将实时到账。","Money Buttonはマイクロペイメントの魅力を最大限に体験できる非常に優れたサービスです。もしMoney Buttonアカウントを持っています、チャージ金額（アメリカドル）を選択してボタンを押してください"
+ImageFiles,"Image Files","图像文件","画像ファイル"
+ClearAll,"Clear All","全部清除","全てクリア"
+AttachFiles,"Attach your image files","添加图像文件","画像ファイルを添付する"
+nFiles,"{count} Files. ({size}) Max total {maxTotalSize} available","{count}个文件 ({size}) 合计最大允许添加:{maxTotalSize}","ファイル数:{count}  ({size})  合計最大{maxTotalSize}可"
+PickFiles,"Pick Files","选择文件","ファイルを選択"
+Satoshi," Satoshi"," Satoshi"," Satoshi"
+DotWallet,"DotWallet","打点钱包","Dot Wallet"
+ChargeDotWalletMessage,"DotWallet is the most used worldwide BSV wallet. It provides secure and reliable digital asset management services to millions of users in more than 150 countries around the world. Please choose amount and click icon button.","打点钱包是全球使用人数最多的比特币SV钱包。为全球超过150个国家和地区的数百万用户提供安全可信赖的数字资产管理服务。请选择充值金额（Satoshi单位），点击图标按钮跳转到打点钱包支付。充值的Satoshi将实时到账。","DotWallet is the most used worldwide BSV wallet. it provide secure and reliable digital asset management services to millions of users in more than 150 countries around the world. Please choose amount and click icon button."
+ChargeFails,"Failed to charge, Please use other method","充值失败，请使用其它方式充值","チェージ失敗、他の方法を使ってください"
+checking-for-update,"Checking for update...","正在检查更新...","更新をチェックしています"
+update-available,"Update available. Auto Download...","有更新版本，自动下载...","更新あります。自動ダウンロード開始"
+update-not-available,"Update not available.","没有更新","更新ありません"
+update-downloaded,"Update downloaded","完成下载","ダウンロード完了"
+update-error,"Error in update.","更新时发生了错误，请回头再试","更新の時エラーが発生、あとで試してください"
+Syncing,"Syncing records","正在同步记录","記録の同期開始"
+SyncFinished,"Sync finished","完成同步","同期完了"
+Paymail,"Paymail Account","账号","アカウント"
+PaymailDesc,"Only for your ID of NoteSV, DO NOT send email to this address.","只用于NoteSV用户身份确认和交互，不能用于普通的电子邮件。","NoteSVのユーザーアカウントとして設定します。普通の電子メールアドレスとして利用できません。"
+NoPaymal,"Not Set","还未设置","設定していません"
+NoLock,"Never Lock","永远不锁屏","ロックしない"
+Online,"Internet online","连上了互联网","インターネットオンライン状態"
+Offline,"Internet offline","互联网断开了","インターネットオフライン状態"
+AccountID,"Account ID","账号名","アカウントID"
+Name,"Name","您的姓名","お名前"
+Email,"Email address","您的电子邮件地址","電子メールアドレス"
+CheckAccountID,"Check ID","检查是否可用","IDをチェックします"
+SaveAccount,"Save Account","保存账号","アカウント保存"
+AliasNoModify,"Once saved, the account ID can't be modified","账号名一旦确定不能修改","保存したアカウントIDはあとで変更できません"
+id-already-exist,"The ID already exist","这个账号已经被占用","このアカウントIDはすでに登録されています、利用不可"
+id-available,"The ID is available","可以使用这个账号","このアカウントIDは登録できます"
+RequireAliasRule,"Require input alphanumeric","只允许输入英文字母和数字","英数字を入力してください"
+ServiceUnavailable,"Service is unavailable now","服务器暂时不能使用，请稍后再试","ただいまサービス利用不可、しばらくの間ご利用ください"
+Saved,"Saved","完成保存","保存完了"
+PaymailAddress,"Paymail Address","Paymail地址","Paymailアドレス"
+PaymailAddressMessage,"OR, you also recharge BSV Satoshi to your Paymail address.","也可以充值BSV到您的Paymail地址。","または、あなたのPaymailアドレスへBSV Satoshiをチャージしてください。"
+NoPaymailAddressMessage,"Register an account for quick recharge","注册一个账号更方便充值。","アカウントを登録したらチャージはもっと便利になります。"
+RegisterAccoun,"Register","注册","アカウント登録"
+exceed-max-total-size,"Exceeds the max uploadable size (Total Max:{maxSize})","超过最大可上传图像大小（合计最大:{maxSize}）","アップロード可能なサイズを超えます（合計最大:{maxSize}）"
+ChangePhoto,"Change Photo","改变头像","写真を変更する"
+Minimize,"Minimize","恢复","元に戻る"
+Maximize,"Maximize","最大化","最大化"
+Reset,"Reset","重置","リセット"
+ChargeAlipayWechatMessage,"SV Cafe support Wechat Pay and Alipay for charging. Please choose amount and click icon button, then scan QR Code via Smartphone App.","SV Cafe是支持微信支付和支付宝的第三方充值服务。请选择充值金额，点击支付图标，使用相应的手机APP扫描支付。充值的Satoshi将实时到账。","SV CafeはWechat PayとAlipayがサポートできるチャージサービスです。チャージ金額（人民元）を確認してアイコンボタンをクリックして表示したQRコードを支払いアプリでスキャンして支払います。チャージしたSatoshiはリアルタイムでアカウントに反映されます。"
+Charged,"You have now successfully recharged","充值成功","チャージ成功"
+ChargeTimeout,"Recharge Timeout, Please try again","充值码过期，请再次尝试","チャージ失敗、もう一度チャージしてください"
+ResizeImage,"Auto resize image","自动调整笔记图片","自動的に画像をリサイズする"
+DeleteDraft,"Discard Draft","放弃草稿","ドラフトを廃棄"
+LockNow,"Lock now","立即上锁","すぐロック"
+RegisterAccount,"Register Account","注册账号","アカンウト登録"
+skipVerify,"Verify later","之后再校验","後で検証"
+BackupNow,"Open Settings, Backup Master Words Now","请在设置画面备份校验超级密语","設定画面でマスター単語をバックアップしてください"
+ChargeSatoshi,"Charge {satoshi} Satoshi","充值 {satoshi} Satoshi","チャージ {satoshi} Satoshi"
+WithdrawSatoshi,"Withdraw {satoshi} Satoshi","提现 {satoshi} Satoshi","送金 {satoshi} Satoshi"
+SpendSatoshi,"Used {satoshi} Satoshi","花费 {satoshi} Satoshi","支払い {satoshi} Satoshi"
+ChargeHistories,"Charge Records","充值记录","チャージ記録"
+RecordHistories,"Records","花费记录","支払い記録"
+RelayX,"RelayX","RelayX","RelayX"
+ChargeRelayXMessage,"RealyX is a support mult curreny Bitcoin SV Wallet. If you have an account, check amount then press button, please","RelayX是支持多种货币单位的BSV钱包。如果您持有账号，请确认充值金额（Satoshi单位）然后点击按钮。充值的Satoshi将实时到账。","RelayXはマルチ通貨をサポートできるビットコインウォレットです。もしアカウントを持ってますとチャージ金額（Satoshi）を確認してボタンを押してください"
+Draft,"Draft","草稿","ドラフト"
+AddLabel,"Add Label","添加标签","ラベルを付ける"
+SharedNote,"Shared Note and Password","被分享的笔记和密码","共有されたノートとパスワード"
+DontShare2Self,"Don't share to self","不能分享给自己","自分自身に共有できない"
+NeedAnAccount,"Register an account firstly","需要先注册一个账号","まずアカウントを登録してください"
+NoRecordsMessage,"No Record","没有记录","記録がありません"
+NoSharedRecordsMessage,"No Shared Records","没有分享记录","共有された記録がありません"
+Records,"Records","记录","記録"
+DeletedRecords,"Deleted Records","删除的记录","削除した記録"
+OneRecordWasDeleted,"One record was deleted","删除了一条记录","記録が一つ削除されました"
+Deleted,"Deleted","已删除","削除した"
