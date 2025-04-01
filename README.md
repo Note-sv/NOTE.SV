@@ -50,7 +50,14 @@ For iOS development, you'll need to:
 2. Download your own `GoogleService-Info.plist`
 3. Place it in `src-capacitor/ios/App/App/GoogleService-Info.plist`
 
-> **Note**: Never commit `google-services.json` or `GoogleService-Info.plist` to version control
+For iOS certificates:
+1. Generate your own Apple Push Notification service (APNs) key from Apple Developer portal
+2. Place your certificates in `src-capacitor/ios/cert/`
+3. Update the certificate references in your Xcode project
+
+> **Security Notice**: 
+> - Never commit Firebase configuration files to version control
+> - Never commit iOS certificates or private keys to version control
 
 ## About
 

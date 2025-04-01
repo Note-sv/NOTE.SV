@@ -72,3 +72,9 @@ src-capacitor/.gradle
 # Firebase config
 src-capacitor/android/app/google-services.json
 src-capacitor/ios/App/App/GoogleService-Info.plist
+
+# Certificates and Keys
+src-capacitor/ios/cert/*.p8
+src-capacitor/ios/cert/*.p12
+src-capacitor/ios/cert/*.cer
+src-capacitor/ios/cert/*.certSigningRequest
